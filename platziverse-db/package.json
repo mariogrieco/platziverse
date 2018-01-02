@@ -1,0 +1,10 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "curso platzi modulo IoT - DB module",
+  "main": "index.js",
+  "repository": "https://github.com/mariogrieco/platziverse",
+  "author": "Mario Grieco",
+  "license": "MIT",
+  "private": false
+}
